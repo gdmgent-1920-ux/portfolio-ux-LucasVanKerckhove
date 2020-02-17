@@ -1,8 +1,8 @@
 # UX portfolio template 1920
 
-## Name:
+## Name: Lucas Van Kreckhove
 
-## Group:
+## Group: AVDa
 
 ## Getting Started
 

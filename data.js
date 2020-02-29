@@ -25,18 +25,18 @@ const data = {
             {
                 "text": "Inspiratieboek",
                 "title": "Mijn PDF met inspiratie (login, functions, result)",
-                "href": "./assignments/assignment1/documents/a1-inspiration.pdf",
+                "href": "./assignments/assignment1/documents/Small-Application.pdf",
                 "target": "_blank"
             },
             {
                 "text": "Adobe XD",
                 "title": "Mijn Adobe XD document",
-                "href": "./assignments/assignment1/documents/a1-visual-designs.xd",
+                "href": "./assignments/assignment1/documents/Small-Application.xd",
             },
             {
                 "text": "Adobe XD Prototype",
                 "title": "Mijn Adobe XD prototype (share link)",
-                "href": "https://xd.adobe.com/view/e4c35170-a2f7-4c10-753b-ba7c449703ec-92f2/grid",
+                "href": "https://xd.adobe.com/view/ab8b32b3-44e7-4860-71b2-e217194e5a29-ddba/",
                 "target": "_blank"
             }
         ]
@@ -51,13 +51,13 @@ const data = {
             {
                 "text": "Inspiratieboek",
                 "title": "Mijn PDF met inspiratie",
-                "href": "./assignments/assignment2/documents/a2-inspiration.pdf",
+                "href": "./assignments/assignment2/documents/Small-Application.pdf",
                 "target": "_blank"
             },
             {
                 "text": "Adobe XD",
                 "title": "Mijn Adobe XD document",
-                "href": "./assignments/assignment2/documents/a2-visual-designs.xd",
+                "href": "./assignments/assignment2/documents/Small-Application.xd",
             },
             {
                 "text": "Adobe XD Prototype",

@@ -51,18 +51,18 @@ const data = {
             {
                 "text": "Inspiratieboek",
                 "title": "Mijn PDF met inspiratie",
-                "href": "./assignments/assignment2/documents/Small-Application.pdf",
+                "href": "./assignments/assignment2/documents/Inspiratieboek.pdf",
                 "target": "_blank"
             },
             {
                 "text": "Adobe XD",
                 "title": "Mijn Adobe XD document",
-                "href": "./assignments/assignment2/documents/Small-Application.xd",
+                "href": "./assignments/assignment2/documents/Sneakershop.xd",
             },
             {
                 "text": "Adobe XD Prototype",
                 "title": "Mijn Adobe XD prototype (share link)",
-                "href": "https://xd.adobe.com/view/e4c35170-a2f7-4c10-753b-ba7c449703ec-92f2/grid",
+                "href": "https://xd.adobe.com/view/a90912ce-ceaf-402a-562e-d2cf3f32c3d5-df38/",
                 "target": "_blank"
             }
         ]
